@@ -3,21 +3,22 @@
 # This file is distributed under the same license as the PACKAGE package.
 # Sankarshan <sankarshan.mukhopadhyay@gmail.com>, 2009.
 # Israt Jahan <israt@ankur.org.bd>, 2010.
+# Mahay Alam Khan <mak@ankur.org.bd>, 2016.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: bn\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-11-13 23:51+0100\n"
-"PO-Revision-Date: 2010-05-30 12:57+0200\n"
-"Last-Translator: Jamil <itsjamil@gmail.com>\n"
+"PO-Revision-Date: 2016-12-08 11:40+0600\n"
+"Last-Translator: Mahay Alam Khan <mahayalamkhan@gmail.com>\n"
 "Language-Team: Bengali <ankur-bd-l10n@googlegroups.com>\n"
 "Language: bn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.0.1\n"
+"X-Generator: Poedit 1.8.11\n"
 
 #: ../data/lxinput.ui.h:1
 msgid "Input Device Preferences"
@@ -53,7 +54,7 @@ msgstr "<b>চালনা</b>"
 
 #: ../data/lxinput.ui.h:9
 msgid "Left handed (Swap left and right mouse buttons)"
-msgstr "বামহাতী (বাম এবং ডান মাউস বোতামের মাঝে সোয়াপ করে)"
+msgstr "বামহাতী (বাম এবং ডান মাউস বোতামের মাঝে সোয়াপ করে)"
 
 #: ../data/lxinput.ui.h:10
 msgid "Mouse"
@@ -94,12 +95,11 @@ msgstr "<b>অক্ষর পুনরাবৃত্তি</b>"
 
 #: ../data/lxinput.ui.h:19
 msgid "Beep when there is an error of keyboard input"
-msgstr "কীবোর্ড ইনপুটে ত্রুটিতে আওয়াজ করা হবে"
+msgstr "কীবোর্ড ইনপুটে ত্রুটিতে আওয়াজ করা হবে"
 
 #: ../data/lxinput.ui.h:20
-#, fuzzy
 msgid "<b>Keyboard layout</b>"
-msgstr "কী-বোর্ড এবং মাউস"
+msgstr "<b>কিবোর্ড লেআউট</b>"
 
 #: ../data/lxinput.ui.h:21
 msgid "Keyboard"
@@ -117,6 +117,5 @@ msgstr "কী-বোর্ড এবং মাউস"
 msgid "Configure keyboard, mouse, and other input devices"
 msgstr "কী-বোর্ড, মাউস এবং অন্যান্য ইনপুট ডিভাইস কনফিগার"
 
-#, fuzzy
-#~ msgid "input-keyboard"
-#~ msgstr "কী-বোর্ড"
+msgid "input-keyboard"
+msgstr "ইনপুট-কিবোর্ড"
